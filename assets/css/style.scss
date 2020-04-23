@@ -1,8 +1,8 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
 // Text
 $section-headings-color: #0d7878 !default;
-$body-link-color: #155799 !default;
+$body-link-color: #471868 !default;
+
+@import "{{ site.theme }}";
