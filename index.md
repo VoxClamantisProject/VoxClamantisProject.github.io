@@ -8,9 +8,10 @@
 
 # Welcome to the home for our corpus!
 
-The VoxClamantis corpus will be released with the ACL 2020 paper "*A Corpus for Large-Scale Phonetic Typology*" by Elizabeth Salesky, Eleanor Chodroff, Tiago Pimentel, Matthew Wiesner, Ryan Cotterell, Alan W. Black, and Jason Eisner.
+VoxClamantis v1.0 includes first-pass phoneme-level alignments for more than 600 languages, high-resource alignments for ~50 languages, and phonetic measures for all vowels and sibilants. 
+The paper will be presented at the [ACL2020 meeting](http://acl2020.org/). 
+Our data is available above -- more information and tools to explore, use, and analyze the corpus to come in the very near future!
 
-### The official data release and paper will be linked here when made public, sometime before the [ACL2020 meeting](http://acl2020.org/)!
-
+### We welcome questions, comments, and contributions!
 
 ![Map of the Corpus Languages](/images/wilderness_mcd_map.png?raw=true "Languages of the VoxClamantis Corpus with Mean Cepstral Distortion Scores")
