@@ -50,16 +50,4 @@
       </footer>
     </main>
   </body>
-  <script>
-    $(window).scroll(function(e){ 
-      var $el = $('.sidenav'); 
-      var isPositionFixed = ($el.css('position') == 'fixed');
-      if ($(this).scrollTop() > 400 && !isPositionFixed){ 
-        $el.css({'position': 'fixed', 'top': '400px'}); 
-      }
-      if ($(this).scrollTop() < 400 && isPositionFixed){
-        $el.css({'position': 'static', 'top': '400px'}); 
-      } 
-    });
-  </script>
 </html>
