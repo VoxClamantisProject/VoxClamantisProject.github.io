@@ -6,30 +6,30 @@ $header-bg-color: #00693e !default;
 
 // Text
 $section-headings-color: #0d7878 !default;
-$body-link-color: #471868 !default;
+$body-link-color: #185792 !default;
 
 /* The sidebar menu */
 .sidenav {
-  width: 160px; /* Set the width of the sidebar */
+  width: 100px; /* Set the width of the sidebar */
   position: fixed; /* Fixed Sidebar (stay in place on scroll) */
   z-index: 1; /* Stay on top */
-  top: 0; /* Stay at the top */
-  left: 0;
-  background-color: #111; /* Black */
+  top: 400px; /* Stay at the top */
+  left: 50px;
   overflow-x: hidden; /* Disable horizontal scroll */
-  padding-top: 20px;
+  padding-top: 0px;
 }
 /* The navigation menu links */
 .sidenav a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
-  font-size: 25px;
-  color: #818181;
+  font-size: 20px;
+  font-weight: bold;
+  color: #185792;
   display: block;
 }
 /* When you mouse over the navigation links, change their color */
 .sidenav a:hover {
-  color: #f1f1f1;
+  color: #4a1d6c;
 }
 
 
