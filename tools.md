@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tools
-description: Helpful tools
+description: Helpful tools & code
 ---
 
 ## Tools
@@ -9,4 +9,4 @@ description: Helpful tools
 Links to helpful tools and our code for the extraction and analysis process to come in the very near future!
 
 
-[back](./)
+[[back]](./)
