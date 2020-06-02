@@ -9,7 +9,7 @@ description: More information about our data
 ### Notes
 
 * When looking for a specific language, we recommend searching by ISO 639-3 code; language names shown reflect current ISO 639-3 and often but not always are the name preferred by speakers of the language. 
-* We are currently working to flag which readings are dramatic (multi-speaker including background music) in the table below.
+* We are currently working to flag which readings are **dramatic** (multi-speaker including background music) in the table below.
 
 
 <table id="selectedColumn" class="table table-striped table-bordered table-sm" cellspacing="0" width="100%">
