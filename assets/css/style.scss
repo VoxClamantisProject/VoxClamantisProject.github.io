@@ -8,6 +8,14 @@ $header-bg-color: #00693e !default;
 $section-headings-color: #0d7878 !default;
 $body-link-color: #185792 !default;
 
+h1, h2 {
+    font-weight: bold;
+}
+
+.main-content h1, .main-content h2 {
+    font-weight: bold;
+}
+
 /* The sidebar menu */
 .sidenav {
   width: 100px; /* Set the width of the sidebar */

@@ -6,8 +6,9 @@ description: Links to helpful tools and our code for the extraction and analysis
 
 Links to tools and our code for the extraction and analysis process. 
 
-## **Extraction Process**
 * * *
+
+## **Extraction Process**
 
 ### **Utterance Alignments**
 * * *
@@ -92,6 +93,8 @@ Our Praat and R scripts to extract vowels and sibilants, given phoneme alignment
 
 
 ## **Analysis**
+
+### **Phonetic Uniformity and Phonetic Dispersion**
 * * *
 
 ### Our Code
