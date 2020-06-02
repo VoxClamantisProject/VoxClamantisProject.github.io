@@ -9,6 +9,17 @@ Links to tools and our code for the extraction and analysis process.
 ## **Extraction Process**
 * * *
 
+### **Utterance Alignments**
+* * *
+
+### CMU Wilderness 
+*CMU Wilderness* releases pre-computed utterance alignments for the chapter-level audio and text on [bible.is](https://bible.is). The original audio and text cannot be directly re-distributed, so Wilderness provides scripts to download the audio and text from source and apply the indices for utterance segmentation they have estimated. 
+However, in many cases the links on bible.is have changed since the original Wilderness paper; we are working to resolve and update the scripts where possible. 
+
+[[GitHub repository]](https://github.com/festvox/datasets-CMU_Wilderness#create-alignments-for-a-language)
+[[paper]](https://ieeexplore.ieee.org/document/8683536)
+
+
 ### **Grapheme-to-Phoneme (G2P) Resources**
 * * *
 
@@ -81,7 +92,6 @@ Our Praat and R scripts to extract vowels and sibilants, given phoneme alignment
 
 
 ## **Analysis**
-
 * * *
 
 ### Our Code
