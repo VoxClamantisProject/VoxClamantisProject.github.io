@@ -6,6 +6,11 @@ description: More information about our data
 
 ## Data
 
+### Notes
+
+* When looking for a specific language, we recommend searching by ISO 639-3 code; language names shown reflect current ISO 639-3 and often but not always are the name preferred by speakers of the language. 
+* We are currently working to flag which readings are dramatic (multi-speaker including background music) in the table below.
+
 
 <table id="selectedColumn" class="table table-striped table-bordered table-sm" cellspacing="0" width="100%">
 <thead>
@@ -19,7 +24,7 @@ description: More information about our data
     <th class="th-sm">Macroarea</th>
     <th class="th-sm"># Utts</th>
     <th class="th-sm"># Phn. Tokens</th>
-    <th class="th-sm"># Vowel Tokens</th>
+    <th class="th-sm"># Vow. Tokens</th>
     <th class="th-sm"># Sib. Tokens</th>
     <th class="th-sm">Dramatic?</th>
   </tr>
@@ -1429,7 +1434,7 @@ description: More information about our data
     <td>cak</td>
     <td>CAKSBG</td>
     <td>Cakchiquel, Central</td>
-    <td>100</td>
+    <td>N/A</td>
     <td>Mayan</td>
     <td>Mayan</td>
     <td>North America</td>
@@ -2129,7 +2134,7 @@ description: More information about our data
     <td>dbq</td>
     <td>DBQWYI</td>
     <td>Daba</td>
-    <td>100</td>
+    <td>N/A</td>
     <td>Afro-Asiatic</td>
     <td>Biu-Mandara</td>
     <td>Africa</td>
@@ -3907,7 +3912,7 @@ description: More information about our data
     <td>knt</td>
     <td>KAQTBL</td>
     <td>Capanahua</td>
-    <td>100</td>
+    <td>N/A</td>
     <td>Panoan</td>
     <td>Panoan</td>
     <td>South America</td>
@@ -9687,11 +9692,6 @@ description: More information about our data
   </tr>
 </tbody>
 </table>
-
-### Notes
-
-* We are currently working to flag which readings are dramatic (multi-speaker including background music) in the table above
-* In many cases the links on bible.is have changed since the original Wilderness paper; we are working to resolve the Wilderness audio scrape and utterance alignment scripts where possible
 
 
 [[back]](./)
