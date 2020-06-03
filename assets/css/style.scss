@@ -19,11 +19,14 @@ h1, h2 {
 
 // Bigass Data Table
 .row {
-    display: flex;
     flex-wrap: wrap;
     margin-right: -15px;
     margin-left: -15px;
     padding-bottom: 5px;
+}
+
+.row-meta {
+    display: flex;
 }
 
 .table-striped tbody tr:nth-of-type(odd) {
