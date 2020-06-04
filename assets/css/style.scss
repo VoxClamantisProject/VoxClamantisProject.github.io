@@ -128,6 +128,30 @@ table.dataTable thead .sorting_desc_disabled:before {
 bottom: .5em;
 }
 
+.card {
+  transition: 0.3s;
+  width: 40%;
+  display: inline-block;
+  margin-right: 15px;
+  margin-bottom: 15px;
+  max-width: 175px;
+  border-radius: 5px; /* 5px rounded corners */
+  font-size: 16px;
+}
+
+/* Add rounded corners to the top left and the top right corner of the image */
+img {
+  border-radius: 5px 5px 0 0;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.card-container {
+  padding: 6px 16px;
+}
+
 
 /* Everything must go before this -- should be the last line */ 
 @import "{{ site.theme }}";
