@@ -6,12 +6,17 @@ description: More information about our data
 
 ## Data
 
+Information about the languages and readings in our corpus, including number of utterances and phoneme tokens.
+
 ### Notes
 
 * When looking for a specific language, we recommend searching by ISO 639-3 code; language names shown reflect current ISO 639-3 and often but not always are the name preferred by speakers of the language. 
+* Vowel and sibilant token numbers reflect the phonemes used for our case studies: all vowels in X-SAMPA listed [here](https://drive.google.com/file/d/1Gw2k_uoBFa3NXUK9vJsWq5RsJHXCRafn/view?usp=sharing) and sibilants include /s/ and /z/
 * We are currently working to flag which readings are **dramatic** (multi-speaker including background music) in the table below.
-
-
+* To view this information in a spreedsheet, click [here](https://docs.google.com/spreadsheets/d/1aBCHAtt0m3Qg27_Cm4vQ5Tg1yheH3rhz43CorV4d6vw/edit?usp=sharing)!
+  
+<br>  
+  
 <table id="selectedColumn" class="table table-striped table-bordered table-sm" cellspacing="0" width="100%">
 <thead>
   <tr>

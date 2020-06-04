@@ -29,6 +29,11 @@ h1, h2 {
     display: flex;
 }
 
+.no-pad {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
 .table-striped tbody tr:nth-of-type(odd) {
     background-color: rgba(0,0,0,0.05);
 }
