@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tools & Code
-description: Links to helpful tools and our code for the extraction and analysis process.
+description: Tools and code for extraction and analysis.
 ---
 
 Links to tools and our code for the extraction and analysis process. 
