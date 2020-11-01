@@ -6,7 +6,9 @@ description: More information about our data
 
 ## Data
 
-Information about the languages and readings in our corpus, including number of utterances and phoneme tokens.
+Our data is hosted on both [OSF](https://osf.io/bc2ns/?view_only=ff23dd6bf3324b11b834ea4bd8d7e6c9){:target="_blank"} and [Google Drive](https://drive.google.com/drive/folders/10jsQgT5anb-E97DZMbGJjwPZ-Ux91xMM?usp=sharing){:target="_blank"} for your convenience. 
+
+Information about the languages and readings in our corpus, including number of utterances and phoneme tokens, can be found below. 
 To view this information in a spreedsheet, click [here](https://docs.google.com/spreadsheets/d/1aBCHAtt0m3Qg27_Cm4vQ5Tg1yheH3rhz43CorV4d6vw/edit?usp=sharing)!
 
 ### Notes
