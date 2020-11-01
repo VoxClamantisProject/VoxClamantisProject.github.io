@@ -9,8 +9,9 @@
 # Welcome to the home for our corpus!
 
 VoxClamantis v1.0 includes first-pass phoneme-level alignments for more than 600 languages, high-resource alignments for ~50 languages, and phonetic measures for all vowels and sibilants. 
-The paper will be presented at the [ACL2020 meeting](http://acl2020.org/). 
-Our data is available above -- more information and tools to explore, use, and analyze the corpus to come in the very near future!
+The paper was presented at the [ACL2020 meeting](http://acl2020.org/): check out the video [here](https://virtual.acl2020.org/paper_main.415.html){:target="_blank"}. 
+
+Our data is available through the links above -- more information and tools to explore, use, and analyze the corpus will be continually added!
 
 ### We welcome questions, comments, and contributions!
 
